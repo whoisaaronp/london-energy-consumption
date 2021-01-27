@@ -2,9 +2,7 @@ name: Deploy London Energy Consumption project
 on:
   push:
     branches:
-      # For testing only, remove when done
-      - "dev.ap.lec"
-      - main
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
