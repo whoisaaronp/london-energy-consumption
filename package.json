@@ -1,26 +1,27 @@
 {
     "name": "london-energy-consumption",
     "version": "1.0.0",
+    "homepage": "/london-energy-consumption",
     "description": "D3.js Data Visualization for London Energy Consumption",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
         "@testing-library/user-event": "^7.1.2",
         "cross-env": "^7.0.2",
-        "kepler.gl": "^2.0.1",
+        "kepler.gl": "^2.4.0",
         "mapbox-gl": "^1.12.0",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
-        "react-palm": "^3.1.2",
+        "react-palm": "^1.1.2",
         "react-redux": "^7.2.0",
-        "react-scripts": "3.4.0",
+        "react-scripts": "^3.4.4",
         "redux": "^4.0.5",
         "styled-components": "^5.0.1",
         "swr": "^0.1.18"
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build",
+        "build": "cp ./data/keplergl.json ./src/ && react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
