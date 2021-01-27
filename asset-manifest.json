@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/london-energy-consumption/static/css/main.e98ed1b6.chunk.css",
+    "main.js": "/london-energy-consumption/static/js/main.d56ca946.chunk.js",
+    "runtime-main.js": "/london-energy-consumption/static/js/runtime-main.64ee0476.js",
+    "static/js/2.e2be8f83.chunk.js": "/london-energy-consumption/static/js/2.e2be8f83.chunk.js",
+    "index.html": "/london-energy-consumption/index.html",
+    "precache-manifest.d2ef110e87afc1f8683c05dfb954eaa8.js": "/london-energy-consumption/precache-manifest.d2ef110e87afc1f8683c05dfb954eaa8.js",
+    "service-worker.js": "/london-energy-consumption/service-worker.js",
+    "static/js/2.e2be8f83.chunk.js.LICENSE.txt": "/london-energy-consumption/static/js/2.e2be8f83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ee0476.js",
+    "static/js/2.e2be8f83.chunk.js",
+    "static/css/main.e98ed1b6.chunk.css",
+    "static/js/main.d56ca946.chunk.js"
+  ]
+}
